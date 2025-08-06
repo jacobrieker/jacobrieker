@@ -46,6 +46,15 @@ A full-stack web app built with ASP.NET Core and React.js
 - Built the complete Blackjack game (frontend + backend) with turn-based logic and balance tracking  
 - Shared logic layer handles cards, sessions, and account data across both games
 
+### [Personal Portfolio Website](https://jacobrieker.com)  
+A fully responsive personal website built with React.js to showcase my work, background, and technical skills.  
+- Features a hero section, project portfolio with embedded videos, and contact form  
+- Built from scratch with clean, modern styling and smooth navigation  
+- Highlights major projects with alternating layouts and YouTube thumbnails that load on click  
+- Designed to be easy for recruiters and hiring managers to browse  
+- Deployed with Vercel and continuously updated as I complete new work
+
+
 ---
 
 ## What I Focus On
