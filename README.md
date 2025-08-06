@@ -8,7 +8,7 @@ My work blends structure and creativity — from designing scalable backend syst
 
 ## Technical Skills
 
-**Languages:** C#, JavaScript, Java, Python, Lua, SQL, HTML, CSS  
+**Languages:** C#, JavaScript, Java, Python, Lua, SQL, HTML, CSS, C
 **Frameworks & Tools:** ASP.NET Core, React.js, Entity Framework Core, REST APIs, .NET, PostgreSQL, MySQL, AWS, Git, Visual Studio  
 **Other:** Game systems, multiplayer networking, UI/UX, Photoshop, Illustrator, business ops, league management
 
